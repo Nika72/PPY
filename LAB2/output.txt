@@ -1,0 +1,22 @@
+Student Number: s25686
+
+Original List: [1, 2, 4, 5, 6]
+Original Tuple: (1, 2, 4, 5, 6)
+Original Set: {1, 2, 4, 5, 6}
+Original Dictionary: {1: 1, 2: 4, 4: 16, 5: 25, 6: 36}
+
+Manipulated List: [1, 2, 4, 5, 6]
+Manipulated Tuple: (1, 2, 4, 5, 6)
+
+List to Tuple: (1, 2, 4, 5, 6)
+List to Set: {1, 2, 4, 5, 6}
+List to Dictionary: {1: 1, 2: 4, 4: 16, 5: 25, 6: 36}
+Tuple to List: [1, 2, 4, 5, 6]
+Tuple to Set: {1, 2, 4, 5, 6}
+Tuple to Dictionary: {1: 1, 2: 4, 4: 16, 5: 25, 6: 36}
+Set to List: [1, 2, 4, 5, 6]
+Set to Tuple: (1, 2, 4, 5, 6)
+Set to Dictionary: {1: 1, 2: 4, 4: 16, 5: 25, 6: 36}
+Dictionary to List: [1, 2, 4, 5, 6]
+Dictionary to Tuple: (1, 2, 4, 5, 6)
+Dictionary to Set: {1, 2, 4, 5, 6}
